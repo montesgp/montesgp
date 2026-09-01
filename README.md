@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Software Architect** building distributed systems, APIs, and reliable platforms — with a foundation in clean/hexagonal architecture and testing.
+**Software Engineer** building distributed systems, APIs, and reliable platforms — with a foundation in clean/hexagonal architecture and testing.
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 🛠️ About me
 
-I'm a **Software Architect / Senior Software Engineer** who cares about **concepts over code**: solid architecture, clean design patterns, and tests that actually protect behavior. I've designed and shipped APIs, API gateways, and cloud platforms on **Google Cloud Platform** and **Azure**.
+I'm a **Software Engineer** who cares about **concepts over code**: solid architecture, clean design patterns, and tests that actually protect behavior. I've designed and shipped APIs, API gateways, and cloud platforms on **Google Cloud Platform** and **Azure**.
 
 I care about teaching and mentoring — a platform is only as good as the team that can evolve it.
 
@@ -30,13 +30,17 @@ I care about teaching and mentoring — a platform is only as good as the team t
 
 <div align="center">
 
-`.NET / C#` · `Ocelot` · `ASP.NET Core` · `REST APIs` · `Clean / Hexagonal Architecture`
+`.NET / C#` · `Clean / Hexagonal Architecture` · `Design Systems` · `Solid` 
 
 `Google Cloud Platform` · `Azure` · `Docker`
 
+`Azure Service Bus` · `Rekognition AWS` · `Tensor Flow GCP`
+
 `Python` · `Next.js` · `TypeScript` · `Tailwind CSS`
 
-`Unit testing` · `Integration testing` · `API design`
+`Angular`· `React`· `Vue` · `Flutter`
+ 
+`SDD` · `TDD` · `RDD`
 
 </div>
 
