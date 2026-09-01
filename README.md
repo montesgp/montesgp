@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I'm Patricio Montes
 
-<!--
-**montesgp/montesgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+**Software Architect** building distributed systems, APIs, and reliable platforms — with a foundation in clean/hexagonal architecture and testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🛠️ About me
+
+I'm a **Software Architect / Senior Software Engineer** who cares about **concepts over code**: solid architecture, clean design patterns, and tests that actually protect behavior. I've designed and shipped APIs, API gateways, and cloud platforms on **Google Cloud Platform** and **Azure**.
+
+I care about teaching and mentoring — a platform is only as good as the team that can evolve it.
+
+---
+
+## 🚀 Latest shipped projects
+
+| Project | What it is | Status |
+|---------|-----------|--------|
+| [**incoders.com.ar**](https://www.incoders.com.ar/) | Corporate site (private repo, public link) | Shipped |
+| [**circuitoarredepadel.com**](https://circuitoarredepadel.com/) | Productive site (private repo, public link) | Shipped |
+| [**api-gateway-net**](https://github.com/montesgp/api-gateway-net) | API Gateway POC — ASP.NET Core + Ocelot, run on Google App Engine (Flexible) | Public |
+
+---
+
+## 🧰 Stack
+
+<div align="center">
+
+`.NET / C#` · `Ocelot` · `ASP.NET Core` · `REST APIs` · `Clean / Hexagonal Architecture`
+
+`Google Cloud Platform` · `Azure` · `Docker`
+
+`Python` · `Next.js` · `TypeScript` · `Tailwind CSS`
+
+`Unit testing` · `Integration testing` · `API design`
+
+</div>
+
+---
+
+## 💼 Experience
+
+Software Architect / Senior Engineer with experience across industries at:
+
+**Toyota** · **Cloudflare** · **UNX Digital (Grupo Prominente)** · **Codeicus**
+
+> Organizations are mentioned as professional background, not as linked GitHub organizations.
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricio-montes)
+
+</div>
