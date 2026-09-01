@@ -34,6 +34,8 @@ I care about teaching and mentoring — a platform is only as good as the team t
 
 `Google Cloud Platform` • `Azure` • `Docker`
 
+`SQL Server` • `PostgreSQL` • `MongoDB` • `Redis`
+
 `Azure Service Bus` • `Rekognition AWS` • `Tensor Flow GCP`
 
 `Python` • `Next.js` • `TypeScript` • `Tailwind CSS`
