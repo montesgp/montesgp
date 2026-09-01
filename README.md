@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Software Engineer** building distributed systems, APIs, and reliable platforms — with a foundation in clean/hexagonal architecture and testing.
+**Software Engineer** building systems, APIs, and reliable platforms — with a foundation in clean/hexagonal architecture and testing.
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 🛠️ About me
 
-I'm a **Software Engineer** who cares about **concepts over code**: solid architecture, clean design patterns, and tests that actually protect behavior. I've designed and shipped APIs, API gateways, and cloud platforms on **Google Cloud Platform** and **Azure**.
+I'm a **Software Engineer** who cares about **concepts over code**: solid architecture, clean design patterns, and tests that actually protect behavior. I've designed and shipped APIs, API gateways, and cloud platforms on **Google Cloud Platform** and **Microsoft Azure**.
 
 I care about teaching and mentoring — a platform is only as good as the team that can evolve it.
 
