@@ -30,34 +30,38 @@ I care about teaching and mentoring — a platform is only as good as the team t
 
 <div align="center">
 
-`.NET / C#` · `Clean / Hexagonal Architecture` · `Design Systems` · `Solid` 
+`.NET / C#` • `Clean / Hexagonal Architecture` • `Design Systems` • `Solid`
 
-`Google Cloud Platform` · `Azure` · `Docker`
+`Google Cloud Platform` • `Azure` • `Docker`
 
-`Azure Service Bus` · `Rekognition AWS` · `Tensor Flow GCP`
+`Azure Service Bus` • `Rekognition AWS` • `Tensor Flow GCP`
 
-`Python` · `Next.js` · `TypeScript` · `Tailwind CSS`
+`Python` • `Next.js` • `TypeScript` • `Tailwind CSS`
 
-`Angular`· `React`· `Vue` · `Flutter`
- 
-`SDD` · `TDD` · `RDD`
+`Angular` • `React` • `Vue` • `Flutter`
+
+`SDD` • `TDD` • `RDD`
 
 </div>
 
 ---
 
-## 💼 Experience
+## 🤝 Important clients
 
-Software Architect / Senior Engineer with experience across industries at:
+Software Engineer with experience building for:
 
-**Toyota** · **Cloudflare** · **UNX Digital (Grupo Prominente)** · **Codeicus**
-
-> Organizations are mentioned as professional background, not as linked GitHub organizations.
+| Client | Site |
+|--------|------|
+| [**TCFA** — Toyota Compañía Financiera Argentina](https://www.toyotacfa.com.ar/) | toyotacfa.com.ar |
+| [**Siegwerk**](https://www.siegwerk.com/en/home.html) | siegwerk.com |
+| [**Apex America**](https://apexamerica.com/) | apexamerica.com |
+| [**Digbang**](https://www.digbang.com/) | digbang.com |
+| [**Button**](https://buttononline.com.ar/) | buttononline.com.ar |
 
 ---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricio-montes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricio-montes-88212448)
 
 </div>
