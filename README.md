@@ -42,7 +42,7 @@ I care about teaching and mentoring — a platform is only as good as the team t
 
 `Angular` • `React` • `Vue` • `Flutter`
 
-`SDD` • `TDD` • `RDD`
+`DDD` • `SDD` • `TDD` • `RDD`
 
 </div>
 
