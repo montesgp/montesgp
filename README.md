@@ -50,13 +50,11 @@ I care about teaching and mentoring — a platform is only as good as the team t
 
 Software Engineer with experience building for:
 
-| Client | Site |
-|--------|------|
-| [**TCFA** — Toyota Compañía Financiera Argentina](https://www.toyotacfa.com.ar/) | toyotacfa.com.ar |
-| [**Siegwerk**](https://www.siegwerk.com/en/home.html) | siegwerk.com |
-| [**Apex America**](https://apexamerica.com/) | apexamerica.com |
-| [**Digbang**](https://www.digbang.com/) | digbang.com |
-| [**Button**](https://buttononline.com.ar/) | buttononline.com.ar |
+- TCFA — Toyota Compañía Financiera Argentina — <a href="https://www.toyotacfa.com.ar/" target="_blank" rel="noopener noreferrer">https://www.toyotacfa.com.ar/</a>
+- Siegwerk — <a href="https://www.siegwerk.com/en/home.html" target="_blank" rel="noopener noreferrer">https://www.siegwerk.com/en/home.html</a>
+- Apex America — <a href="https://apexamerica.com/" target="_blank" rel="noopener noreferrer">https://apexamerica.com/</a>
+- Digbang — <a href="https://www.digbang.com/" target="_blank" rel="noopener noreferrer">https://www.digbang.com/</a>
+- Button — <a href="https://buttononline.com.ar/" target="_blank" rel="noopener noreferrer">https://buttononline.com.ar/</a>
 
 ---
 
