@@ -22,7 +22,7 @@ I care about teaching and mentoring — a platform is only as good as the team t
 |---------|-----------|--------|
 | [**incoders.com.ar**](https://www.incoders.com.ar/) | Corporate site (private repo, public link) | Shipped |
 | [**circuitoarredepadel.com**](https://circuitoarredepadel.com/) | Productive site (private repo, public link) | Shipped |
-| [**api-gateway-net**](https://github.com/montesgp/api-gateway-net) | API Gateway POC — ASP.NET Core + Ocelot, run on Google App Engine (Flexible) | Public |
+| [**api-gateway-net**](https://github.com/montesgp/api-gateway-net) | API Gateway POC — ASP.NET Core + Ocelot, run on Google App Engine Flex | Public |
 
 ---
 
