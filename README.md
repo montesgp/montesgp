@@ -20,10 +20,10 @@ I care about teaching and mentoring — a platform is only as good as the team t
 
 | Project | What it is | Status |
 |---------|-----------|--------|
-| [**incoders.com.ar**](https://www.incoders.com.ar/) | Corporate site (private repo, public link) | Shipped |
-| [**circuitoarredepadel.com**](https://circuitoarredepadel.com/) | Productive site (private repo, public link) | Shipped |
-| [**api-gateway-net**](https://github.com/montesgp/api-gateway-net) | API Gateway POC — ASP.NET Core + Ocelot, run on Google App Engine Flex | Public |
 | [**receipt-risk-detector**](https://receipt-risk-detector-web-production.up.railway.app/) | Open-source engine that analyzes Argentine transfer-receipt images and returns an explainable fraud-risk assessment | Shipped |
+| [**circuitoarredepadel.com**](https://circuitoarredepadel.com/) | Productive site (private repo, public link) | Shipped |
+| [**incoders.com.ar**](https://www.incoders.com.ar/) | Corporate site (private repo, public link) | Shipped |
+| [**api-gateway-net**](https://github.com/montesgp/api-gateway-net) | API Gateway POC — ASP.NET Core + Ocelot, run on Google App Engine Flex | Public |
 
 ---
 
