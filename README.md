@@ -20,6 +20,7 @@ I care about teaching and mentoring — a platform is only as good as the team t
 
 | Project | What it is | Status |
 |---------|-----------|--------|
+| [**orbitbar**](https://github.com/montesgp/orbitbar) | Cross-platform hotbar for project token usage and insights | Shipped |
 | [**receipt-risk-detector**](https://receipt-risk-detector-web-production.up.railway.app/) | Open-source engine that analyzes Argentine transfer-receipt images and returns an explainable fraud-risk assessment | Shipped |
 | [**circuitoarredepadel.com**](https://circuitoarredepadel.com/) | Productive site (private repo, public link) | Shipped |
 | [**incoders.com.ar**](https://www.incoders.com.ar/) | Corporate site (private repo, public link) | Shipped |
