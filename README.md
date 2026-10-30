@@ -44,7 +44,7 @@ I care about teaching and mentoring — a platform is only as good as the team t
 
 `Angular` • `React` • `Vue` • `Flutter`
 
-`DDD` • `SDD` • `TDD` • `RDD`
+`DDD` • `SDD` • `TDD` • `RDD` • `ODD`
 
 </div>
 
@@ -56,9 +56,10 @@ Software Engineer with experience building for:
 
 - TCFA — Toyota Compañía Financiera Argentina — <a href="https://www.toyotacfa.com.ar/" target="_blank" rel="noopener noreferrer">https://www.toyotacfa.com.ar/</a>
 - Siegwerk — <a href="https://www.siegwerk.com/en/home.html" target="_blank" rel="noopener noreferrer">https://www.siegwerk.com/en/home.html</a>
-- Apex America — <a href="https://apexamerica.com/" target="_blank" rel="noopener noreferrer">https://apexamerica.com/</a>
 - Digbang — <a href="https://www.digbang.com/" target="_blank" rel="noopener noreferrer">https://www.digbang.com/</a>
-- Button — <a href="https://buttononline.com.ar/" target="_blank" rel="noopener noreferrer">https://buttononline.com.ar/</a>
+- Apex America — <a href="https://apexamerica.com/" target="_blank" rel="noopener noreferrer">https://apexamerica.com/</a>
+- Grupo Prominente — <a href="https://grupoprominente.com/" target="_blank" rel="noopener noreferrer">https://grupoprominente.com/</a>
+- Urbetrack — <a href="https://urbetrack.com/" target="_blank" rel="noopener noreferrer">https://urbetrack.com/</a>
 
 ---
 
